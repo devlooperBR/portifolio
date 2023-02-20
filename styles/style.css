@@ -140,4 +140,8 @@ body {
     .apresentacao__conteudo {
         width: auto;
     }
+
+    .rodape{
+        font-size: 1rem;
+    }
 }
